@@ -1,0 +1,31 @@
+body {
+	font-family: 'Courier Prime', monospace;
+}
+
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#bg-project {
+	background-image: url(./images/bgimage.png);
+	background-repeat: repeat;
+}
+
+#bg-tools {
+	background-image: url(./images/bgproject.png);
+	background-repeat: repeat;
+}
+
+h2, h1, h3, h4, h5, h6 {
+	font-weight: bold;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: darkred;
+	font-weight: bold;
+}
