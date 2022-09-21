@@ -29,3 +29,11 @@ a {
 	color: darkred;
 	font-weight: bold;
 }
+
+ul {
+	list-style: none;
+}
+
+p {
+	text-align: justify;
+}
